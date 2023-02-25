@@ -1,12 +1,13 @@
 theme: jekyll-theme-minimal
-title: chatGPT. Инструкция по применению
+title: 
 description: 
   <ul>
-  <li><a href="https://rogozinushka.github.io/chatgpt_manual/">Главная</a></li>
-  <li><a href="https://rogozinushka.github.io/chatgpt_manual/pages/Как пользоваться chatGPT">Как пользоваться chatGPT</a></li>
-  <li>Как можно использовать chatGPT в IT</li>
-  <li>Как зарегистрироваться в chatGPT?</li>
-  <li>chatGPT нас заменит?</li>
+  <li><a href="/">Главная</a></li>
+  <li><a href="/pages/chatGPT_usage">Как пользоваться chatGPT</a></li>
+  <li><a href="/pages/chatGPT_IT_usage">Как пользоваться chatGPT в IT</a></li>
+  <li><a href="/pages/chatGPT_registration">Как зарегистрироваться в chatGPT?</a></li>
+  <li><a href="/pages/future_of_chatGPT">Мысли про будущее chatGPT и нейросетей</a></li>
   </ul>
 logo: "/images/chatGPT_Инструкция_по_применению.png"
 layout: post
+google_analytics: G-XXSQPB5H08

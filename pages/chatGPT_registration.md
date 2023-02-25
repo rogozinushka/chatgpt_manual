@@ -44,8 +44,11 @@ title: Как зарегистрироваться в chatGPT?
 
    ![image-20230225123616061](/images/ChatGPT_registration/chatGPT_thumbnail_creation_2.png)
    
-
 10. Теперь через ярлык на рабочем столе можно получить доступ к chatGPT как к отдельную приложению, а не вкладке в браузере
     ![chatGPT_thumbnail](/images/ChatGPT_registration/chatGPT_thumbnail.png)
 
 11. Вы прекрасны, доступ к chatgpt у вас есть!
+
+Иногда при открытии через ярлык Adguard может появляться всплывающее окно, не бойтесь, просто нажимайте на кнопку "Отмена" и пользуйтесь в свое удовольствие.
+
+![chatGPT_thumbnail](/images/ChatGPT_registration/adguard_error.png)
