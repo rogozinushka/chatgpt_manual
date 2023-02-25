@@ -63,6 +63,6 @@
 
 ## Полезные ссылки
 
-- [ChatGPT. Официальный сайт](https:/chat.openai.com/chat)
-- [Вастрик Блог. ChatGPT. Когда нас уже заменят нейросетями?](https:/vas3k.blog/)
-- [The ChatGPT Cheat Sheet](https:/www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
+- [ChatGPT. Официальный сайт](https://chat.openai.com/chat)
+- [Вастрик Блог. ChatGPT. Когда нас уже заменят нейросетями?](https://vas3k.blog/)
+- [The ChatGPT Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
