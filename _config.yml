@@ -10,4 +10,4 @@ description:
   </ul>
 logo: "images/chatGPT_Инструкция_по_применению.png"
 layout: post
-google_analytics: G-XXSQPB5H08
+markdown: kramdown
