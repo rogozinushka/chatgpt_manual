@@ -6,7 +6,7 @@
 
 Но о чем это я? Да, о chatGPT. Давайте спросим у самой chatGPT, что она умеет и кто она такая.
 
-![ChatGPT_example](/images/chatGPT_main_page/ChatGPT_example.png)
+![ChatGPT_example](/chatgpt_manual/images/chatGPT_main_page/ChatGPT_example.png)
 
 Или более подробный ответ от нее:
 
@@ -36,7 +36,7 @@
 >
 > Я: \*пошел гуглить, как воспользоваться chatGPT\*
 
-![diploma_pages_number](/images/chatGPT_main_page/diploma_pages_number.jpg)
+![diploma_/chatgpt_manual/pages_number](/chatgpt_manual/images/chatGPT_main_page/diploma_/chatgpt_manual/pages_number.jpg)
 
 > Моя переписка с другом до новости про chatGPT
 
@@ -56,13 +56,13 @@
 ## Структура сайта
 
 - Главная (мы тут)
-- [Как пользоваться chatGPT](/pages/chatGPT_usage)
-- [Как можно пользоваться chatGPT в IT](/pages/chatGPT_IT_usage)
-- [Как зарегистрироваться в chatGPT?](/pages/chatGPT_registration) 
-- [Мысли про будущее chatGPT и нейросетей](/pages/future_of_chatGPT)
+- [Как пользоваться chatGPT](/chatgpt_manual/pages/chatGPT_usage)
+- [Как можно пользоваться chatGPT в IT](/chatgpt_manual/pages/chatGPT_IT_usage)
+- [Как зарегистрироваться в chatGPT?](/chatgpt_manual/pages/chatGPT_registration) 
+- [Мысли про будущее chatGPT и нейросетей](/chatgpt_manual/pages/future_of_chatGPT)
 
 ## Полезные ссылки
 
-- [ChatGPT. Официальный сайт](https://chat.openai.com/chat)
-- [Вастрик Блог. ChatGPT. Когда нас уже заменят нейросетями?](https://vas3k.blog/)
-- [The ChatGPT Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
+- [ChatGPT. Официальный сайт](https:/chat.openai.com/chat)
+- [Вастрик Блог. ChatGPT. Когда нас уже заменят нейросетями?](https:/vas3k.blog/)
+- [The ChatGPT Cheat Sheet](https:/www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)

@@ -2,12 +2,12 @@ theme: jekyll-theme-minimal
 title: 
 description: 
   <ul>
-  <li><a href="/">Главная</a></li>
-  <li><a href="/pages/chatGPT_usage">Как пользоваться chatGPT</a></li>
-  <li><a href="/pages/chatGPT_IT_usage">Как пользоваться chatGPT в IT</a></li>
-  <li><a href="/pages/chatGPT_registration">Как зарегистрироваться в chatGPT?</a></li>
-  <li><a href="/pages/future_of_chatGPT">Мысли про будущее chatGPT и нейросетей</a></li>
+  <li><a href="/chatgpt_manual">Главная</a></li>
+  <li><a href="/chatgpt_manual/pages/chatGPT_usage">Как пользоваться chatGPT</a></li>
+  <li><a href="/chatgpt_manual/pages/chatGPT_IT_usage">Как пользоваться chatGPT в IT</a></li>
+  <li><a href="/chatgpt_manual/pages/chatGPT_registration">Как зарегистрироваться в chatGPT?</a></li>
+  <li><a href="/chatgpt_manual/pages/future_of_chatGPT">Мысли про будущее chatGPT и нейросетей</a></li>
   </ul>
-logo: "/images/chatGPT_Инструкция_по_применению.png"
+logo: "/chatgpt_manual/images/chatGPT_Инструкция_по_применению.png"
 layout: post
 google_analytics: G-XXSQPB5H08
