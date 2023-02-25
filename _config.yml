@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: 
+title: ''
 description: 
   <ul>
   <li><a href="/chatgpt_manual">Главная</a></li>
@@ -8,6 +8,6 @@ description:
   <li><a href="/chatgpt_manual/pages/chatGPT_registration">Как зарегистрироваться в chatGPT?</a></li>
   <li><a href="/chatgpt_manual/pages/future_of_chatGPT">Мысли про будущее chatGPT и нейросетей</a></li>
   </ul>
-logo: "/chatgpt_manual/images/chatGPT_Инструкция_по_применению.png"
+logo: "images/chatGPT_Инструкция_по_применению.png"
 layout: post
 google_analytics: G-XXSQPB5H08

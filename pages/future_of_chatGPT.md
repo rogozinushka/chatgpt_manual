@@ -85,4 +85,4 @@ ChatGPT - это инструмент, созданный для помощи л
 
 Все в ваших руках, дерзайте! 💪
 
-![rocky](\images\future_of_chatGPT\rocky.jpg)
+![rocky](/chatgpt_manual/images/future_of_chatGPT/rocky.jpg)

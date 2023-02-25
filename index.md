@@ -36,7 +36,7 @@
 >
 > Я: \*пошел гуглить, как воспользоваться chatGPT\*
 
-![diploma_/chatgpt_manual/pages_number](/chatgpt_manual/images/chatGPT_main_page/diploma_/chatgpt_manual/pages_number.jpg)
+![diploma_pages_number](/chatgpt_manual/images/chatGPT_main_page/diploma_pages_number.jpg)
 
 > Моя переписка с другом до новости про chatGPT
 
