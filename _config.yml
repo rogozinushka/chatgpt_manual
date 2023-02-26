@@ -3,11 +3,11 @@ title: ''
 description: 
   <ul>
   <li><a href="/chatgpt_manual">Главная</a></li>
-  <li><a href="/chatgpt_manual/pages/chatGPT_usage">Как пользоваться chatGPT</a></li>
-  <li><a href="/chatgpt_manual/pages/chatGPT_IT_usage">Как пользоваться chatGPT в IT</a></li>
-  <li><a href="/chatgpt_manual/pages/chatGPT_registration">Как зарегистрироваться в chatGPT?</a></li>
-  <li><a href="/chatgpt_manual/pages/future_of_chatGPT">Мысли про будущее chatGPT и нейросетей</a></li>
+  <li><a href="/chatgpt_manual/pages/СhatGPT_usage">Как пользоваться ChatGPT</a></li>
+  <li><a href="/chatgpt_manual/pages/СhatGPT_IT_usage">Советы по использованию ChatGPT в IT</a></li>
+  <li><a href="/chatgpt_manual/pages/СhatGPT_registration">Как зарегистрироваться в ChatGPT?</a></li>
+  <li><a href="/chatgpt_manual/pages/future_of_СhatGPT">Мысли про будущее ChatGPT и нейросетей</a></li>
   </ul>
-logo: "images/chatGPT_Инструкция_по_применению.png"
+logo: "images/СhatGPT_Инструкция_по_применению.png"
 layout: post
 markdown: kramdown
