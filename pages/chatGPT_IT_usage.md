@@ -14,7 +14,7 @@ title: Советы по использованию ChatGPT в IT
 
 ChatGPT может ответить на узкие вопросы про функционал и документацию некоторых фреймворков. Однако следует помнить, что ее знания актуальны только до 2021 года и могут быть неточными, поэтому необходима проверка информации со стороны человека.
 
-![documentation](/chatgpt_manual/images/СhatGPT_IT_usage/documentation.png)
+![documentation](/chatgpt_manual/images/ChatGPT_IT_usage/documentation.png)
 
 > Стоит добавить нулевой пункт:
 >
@@ -42,7 +42,7 @@ ChatGPT может ответить на узкие вопросы про фун
 
 Иногда мы хотим не сухие факты, но и эмоциональное насыщение, чтобы текст не казался слишком скучными и душным. Потому что мы не машины без чувств и эмоций. В таком ключе думают менеджеры и комиссия по пересмотрам - они тоже люди и хотят больше человечности в тексте. 
 
-![feedback](/chatgpt_manual/images/СhatGPT_IT_usage/feedback.jpg)
+![feedback](/chatgpt_manual/images/ChatGPT_IT_usage/feedback.jpg)
 
 И ChatGPT может помочь в более грамотном изложении своих мыслей.
 
@@ -101,7 +101,7 @@ ChatGPT может ответить на узкие вопросы про фун
 >
 > **Дай конструктивную и вежливую обратную связь отказа по работе**
 
-![nightmare](/chatgpt_manual/images/СhatGPT_IT_usage/nightmare.jpg)
+![nightmare](/chatgpt_manual/images/ChatGPT_IT_usage/nightmare.jpg)
 
 Что ответила ChatGPT
 
@@ -123,7 +123,7 @@ ChatGPT может ответить на узкие вопросы про фун
 
 В IT-индустрии уделяют большое внимание официальному составлению электронных писем, поскольку это помогает развивать у сотрудников навыки конструктивной коммуникации и обратной связи. Попробуем научиться этому у ChatGPT, чтобы не тратить на это много времени.
 
-![formal_letter](/chatgpt_manual/images/СhatGPT_IT_usage/formal_letter.jpg)
+![formal_letter](/chatgpt_manual/images/ChatGPT_IT_usage/formal_letter.jpg)
 
 **Пример составления формального письма**
 
@@ -141,7 +141,7 @@ ChatGPT может ответить на узкие вопросы про фун
 
 Суммаризация текста - это процесс сокращения объема информации и выделение основных идей из длинного текста. Она может быть полезна при сокращении пользовательских интервью, собеседований и летучек. Этот подход также может сократить время и улучшить процесс принятия решений, помогая сосредоточиться на наиболее важных фактах и информации.
 
-![a_lot_of_books](/chatgpt_manual/images/СhatGPT_IT_usage/a_lot_of_books.png)
+![a_lot_of_books](/chatgpt_manual/images/ChatGPT_IT_usage/a_lot_of_books.png)
 
 > Когда решил почитать документацию по работе
 
@@ -226,7 +226,7 @@ ChatGPT может ответить на узкие вопросы про фун
 
 Этот блок - настоящая находка для NLP-датасаентистов. Ибо то, что творит бот ChatGPT здесь - удивительно, что он может выполнить 100500 задач в одно рыло. Прошу прощения за эмоции - меня это поражает. Он может анализировать тексты, распознавать смысловые связи, определять настроение и эмоции, а также многое другое.
 
-![nlp](/chatgpt_manual/images/СhatGPT_IT_usage/nlp.jpg)
+![nlp](/chatgpt_manual/images/ChatGPT_IT_usage/nlp.jpg)
 
 ### 6.1. Суммаризация текста
 
@@ -265,7 +265,7 @@ ChatGPT может ответить на узкие вопросы про фун
 
 Превосходно.
 
-![perfection](/chatgpt_manual/images/СhatGPT_IT_usage/perfection.jpg)
+![perfection](/chatgpt_manual/images/ChatGPT_IT_usage/perfection.jpg)
 
 ### 6.3. sentiment analysis и классификация текста
 
@@ -319,7 +319,7 @@ ChatGPT получила вопрос
 
 > Можно ли жить на болоте человеку, как жил Шрек?
 
-![shrek](/chatgpt_manual/images/СhatGPT_IT_usage/shrek.jpg)
+![shrek](/chatgpt_manual/images/ChatGPT_IT_usage/shrek.jpg)
 
 Что ответила ChatGPT
 
@@ -347,7 +347,7 @@ ChatGPT получила вопрос
 
 > **Переведи текст на англ** "Петька и Василий Иванович встретились с нюансом"
 
-![prtka_and_chapaev_nuance](/chatgpt_manual/images/СhatGPT_IT_usage/prtka_and_chapaev_nuance.jpg)
+![prtka_and_chapaev_nuance](/chatgpt_manual/images/ChatGPT_IT_usage/prtka_and_chapaev_nuance.jpg)
 
 Что ответила ChatGPT
 

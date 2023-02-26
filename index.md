@@ -6,7 +6,7 @@
 
 Но о чем это я? Да, о ChatGPT. Давайте спросим у самой ChatGPT, что она умеет и кто она такая.
 
-![СhatGPT_example](/chatgpt_manual/images/СhatGPT_main_page/СhatGPT_example.png)
+![ChatGPT_example](/chatgpt_manual/images/ChatGPT_main_page/ChatGPT_example.png)
 
 Или более подробный ответ от нее:
 
@@ -36,7 +36,7 @@
 >
 > Я: \*пошел гуглить, как воспользоваться ChatGPT\*
 
-![diploma_pages_number](/chatgpt_manual/images/СhatGPT_main_page/diploma_pages_number.jpg)
+![diploma_pages_number](/chatgpt_manual/images/ChatGPT_main_page/diploma_pages_number.jpg)
 
 > Моя переписка с другом до новости про ChatGPT
 
@@ -56,14 +56,14 @@
 ## Структура сайта
 
 - Главная (мы тут)
-- [Как пользоваться ChatGPT](/chatgpt_manual/pages/СhatGPT_usage)
-- [Советы по использованию ChatGPT в IT](/chatgpt_manual/pages/СhatGPT_IT_usage)
-- [Как зарегистрироваться в ChatGPT?](/chatgpt_manual/pages/СhatGPT_registration) 
-- [Мысли про будущее ChatGPT и нейросетей](/chatgpt_manual/pages/future_of_СhatGPT)
+- [Как пользоваться ChatGPT](/chatgpt_manual/pages/ChatGPT_usage)
+- [Советы по использованию ChatGPT в IT](/chatgpt_manual/pages/ChatGPT_IT_usage)
+- [Как зарегистрироваться в ChatGPT?](/chatgpt_manual/pages/ChatGPT_registration) 
+- [Мысли про будущее ChatGPT и нейросетей](/chatgpt_manual/pages/future_of_ChatGPT)
 - [Обратная связь](/chatgpt_manual/pages/feedback)
 
 ## Полезные ссылки
 
 - [ChatGPT. Официальный сайт](https://chat.openai.com/chat)
 - [Вастрик Блог. ChatGPT. Когда нас уже заменят нейросетями?](https://vas3k.blog/notes/ChatGPT/)
-- [The ChatGPT Cheat Sheet](https://www.kdnuggets.com/publications/sheets/СhatGPT_Cheatsheet_Costa.pdf)
+- [The ChatGPT Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)

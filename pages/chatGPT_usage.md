@@ -16,7 +16,7 @@ title: Как пользоваться ChatGPT
 
 ChatGPT имеет огромный потенциал для частичной замены поисковых систем, и, возможно, в будущем подобную технологию внедрят гиганты индустрии.
 
-![wolf_clever_mind](/chatgpt_manual/images/СhatGPT_usage/wolf_clever_mind.jpg)
+![wolf_clever_mind](/chatgpt_manual/images/ChatGPT_usage/wolf_clever_mind.jpg)
 
 Однако, поисковики все еще могут быть полезны для быстрого доступа к обширным базам данных и определенным типам запросов, таким как запросы на нахождение конкретных веб-страниц.
 
@@ -59,7 +59,7 @@ ChatGPT имеет огромный потенциал для частичной
 
 ChatGPT может автоматизировать и ускорить процесс создания контента, особенно когда речь идет о больших объемах информации. Внутри бота есть информация про другие тексты, вдохновляясь которыми он может создать что-то новое.
 
-![sponge_bob_imagination](/chatgpt_manual/images/СhatGPT_usage/sponge_bob_imagination.jpg)
+![sponge_bob_imagination](/chatgpt_manual/images/ChatGPT_usage/sponge_bob_imagination.jpg)
 
 Машина может создавать качественный контент только на основе того, что ей уже известно. Ей не хватает способности к интуиции и творческому мышлению, которые присущи человеку. Поэтому относитесь с подозрением к тому, что может дать нам ChatGPT.
 
@@ -93,7 +93,7 @@ ChatGPT может автоматизировать и ускорить проц
 
 Суммаризация текста может быть полезной для быстрого получения общей информации из большого количества текста. Это банально может сэкономить время, чтобы прочесть только выжимку, самые соки из текста.
 
-![lower_font](/chatgpt_manual/images/СhatGPT_usage/lower_font.jpg)
+![lower_font](/chatgpt_manual/images/ChatGPT_usage/lower_font.jpg)
 
 Для этого следует подать на вход желаемый текст и дописать **Сократи текст**. Мы можем просить сократить текст до абзаца, до пары предложений - и бот нас поймет.
 
@@ -129,7 +129,7 @@ ChatGPT справился!
 
 Иными словами, можно попросить ChatGPT раскрыть суть текста или попросить увеличить объем текста.
 
-![someone_tries_to_print_diploma](/chatgpt_manual/images/СhatGPT_usage/someone_tries_to_print_diploma.jpg)
+![someone_tries_to_print_diploma](/chatgpt_manual/images/ChatGPT_usage/someone_tries_to_print_diploma.jpg)
 
 **Пример с раскрытием темы** 
 
@@ -159,7 +159,7 @@ ChatGPT справился!
 
 ChatGPT можно попросить изменить стиль текста. Это может пригодиться в разных областях, чтобы сократить время написания текста, обращений, писем к разным учреждениям и людям. Ведь тот текст, который ты можешь написать другу, не подойдёт для отправки в налоговую)
 
-![different_styles](/chatgpt_manual/images/СhatGPT_usage/different_styles.jpg)
+![different_styles](/chatgpt_manual/images/ChatGPT_usage/different_styles.jpg)
 
 Для этого достаточно ввести желаемый текст и дописать "**Сделай то-то с текстом**"
 
@@ -282,7 +282,7 @@ ChatGPT можно попросить изменить стиль текста. 
 
 ChatGPT обучена на огромном количестве текстовых данных на различных языках, что позволяет ей понимать смысл текста и генерировать переводы.
 
-![shrek_translation](/chatgpt_manual/images/СhatGPT_usage/shrek_translation.jpg)
+![shrek_translation](/chatgpt_manual/images/ChatGPT_usage/shrek_translation.jpg)
 
 Для перевода текста в ChatGPT необходимо передать входной текст на исходном языке и указать целевой язык перевода. 
 
