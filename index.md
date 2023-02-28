@@ -55,11 +55,20 @@
 
 ## Структура сайта
 
+Инструкции:
+
 - Главная (мы тут)
 - [Как пользоваться ChatGPT](/chatgpt_manual/pages/ChatGPT_usage)
 - [Советы по использованию ChatGPT в IT](/chatgpt_manual/pages/ChatGPT_IT_usage)
 - [Как зарегистрироваться в ChatGPT?](/chatgpt_manual/pages/ChatGPT_registration) 
-- [Мысли про будущее ChatGPT и нейросетей](/chatgpt_manual/pages/future_of_ChatGPT)
+
+Мысли:
+
+- [ChatGPT и безработица - что нас ждет в будущем?](/chatgpt_manual/pages/future_of_ChatGPT)
+- [ChatGPT - убийца интеллекта человека?](/chatgpt_manual/pages/ChatGPT_makes_us_stupid)
+
+Другое:
+
 - [Обратная связь](/chatgpt_manual/pages/feedback)
 
 ## Полезные ссылки
