@@ -10,6 +10,9 @@ description:
   <li><a href="/chatgpt_manual/pages/ChatGPT_makes_us_stupid">ChatGPT - убийца интеллекта человека?</a></li>
   <li><a href="/chatgpt_manual/pages/feedback">Обратная связь</a></li>
   </ul>
+  <a href="https://github.com/rogozinushka"><img src="/chatgpt_manual/images/icons/github-brands.png" height="30px" alt="github logo"></a>
+  <a href="https://www.linkedin.com/in/rogozinushka/"><img src="/chatgpt_manual/images/icons/linkedin-brands.png" height="30px" alt="linkedin logo"></a>
+  <a href="https://t.me/rogozinushka"><img src="/chatgpt_manual/images/icons/telegram-brands.png" height="30px" alt="telehram logo"></a> 
 logo: "images/ChatGPT_Инструкция_по_применению.png"
 layout: post
 markdown: kramdown
