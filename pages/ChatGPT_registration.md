@@ -22,9 +22,9 @@ description: Инструкция по регистрации в ChatGPT
 
 1. скачать [Google Chrome Portable](https://portableapps.com/apps/internet/google_chrome_portable) и установить
 
-2. открыть Google Chrome Portable и поставить бесплатное расширение [Adguard VPN](https://play.google.com/store/apps/details?id=com.adguard.vpn) для обхода блокировки по VPN. Зарегистрироваться в этом расширении и включить (не выключайте)
+2. открыть Google Chrome Portable и поставить бесплатное расширение [Adguard VPN](https://chrome.google.com/webstore/detail/adguard-vpn-—-free-secure/hhdobjgopfphlmjbmnpglhfcgppchgje?hl=ru) для обхода блокировки по VPN. Зарегистрироваться в этом расширении и включить (не выключайте)
 
-3. зайти на сайт [ChatGPT](![image-20230225122239680](C:/Users/user/AppData/Roaming/Typora/typora-user-images/image-20230225122239680.png))
+3. зайти на сайт [ChatGPT](https://chat.openai.com/chat)
    ![ChatGPT_login](/chatgpt_manual/images/ChatGPT_registration/ChatGPT_login.png)
 
 4. зарегистрироваться (sign up) на сайте, ввести своё имя и фамилию
