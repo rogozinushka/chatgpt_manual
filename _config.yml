@@ -1,18 +1,24 @@
 theme: jekyll-theme-minimal
-title: ''
+title: 'ChatGPT Инструкция по применению'
 description: 
   <ul>
   <li><a href="/chatgpt_manual">Главная</a></li>
   <li><a href="/chatgpt_manual/pages/ChatGPT_usage">Как пользоваться ChatGPT</a></li>
-  <li><a href="/chatgpt_manual/pages/ChatGPT_IT_usage">Советы по использованию ChatGPT в IT</a></li>
-  <li><a href="/chatgpt_manual/pages/ChatGPT_registration">Как зарегистрироваться в ChatGPT?</a></li>
+  <li><a href="/chatgpt_manual/pages/ChatGPT_IT_usage">Советы и примеры по ChatGPT для IT-специалистов</a></li>
+  <li><a href="/chatgpt_manual/pages/ChatGPT_registration">Как зарегистрироваться в ChatGPT из России?</a></li>
   <li><a href="/chatgpt_manual/pages/future_of_ChatGPT">ChatGPT и безработица - что нас ждет в будущем?</a></li>
   <li><a href="/chatgpt_manual/pages/ChatGPT_makes_us_stupid">ChatGPT - убийца интеллекта человека?</a></li>
   <li><a href="/chatgpt_manual/pages/feedback">Обратная связь</a></li>
   </ul>
-  <a href="https://github.com/rogozinushka"><img src="/chatgpt_manual/images/icons/github-brands.png" height="30px" alt="github logo"></a>
-  <a href="https://www.linkedin.com/in/rogozinushka/"><img src="/chatgpt_manual/images/icons/linkedin-brands.png" height="30px" alt="linkedin logo"></a>
-  <a href="https://t.me/rogozinushka"><img src="/chatgpt_manual/images/icons/telegram-brands.png" height="30px" alt="telehram logo"></a> 
+  <p><b>Контакты</b></p>
+  <p>
+      <a href="https://github.com/rogozinushka"><img src="/chatgpt_manual/images/icons/github-brands.png" height="30px" alt="github logo"></a>
+      <a href="https://www.linkedin.com/in/rogozinushka/"><img src="/chatgpt_manual/images/icons/linkedin-brands.png" height="30px" alt="linkedin logo"></a>
+      <a href="https://t.me/rogozinushka"><img src="/chatgpt_manual/images/icons/telegram-brands.png" height="30px" alt="telegram logo"></a> 
+  </p>
+  <p></p>
+  <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
 logo: "images/ChatGPT_Инструкция_по_применению.png"
-layout: post
-markdown: kramdown
+github:
+  is_project_page: false
+  is_user_page: false
