@@ -60,7 +60,7 @@ description: Инструкция по регистрации в ChatGPT из Р
 
 12. Вы прекрасны, доступ к ChatGPT у вас есть!
 
-Теперь вы можете начать пользоваться ChatGPT. А помогут вам в этом эти советы:
+Теперь вы можете начать пользоваться ChatGPT. А помогут вам эти советы:
 
 - [Советы и примеры по ChatGPT для IT-специалистов](/chatgpt_manual/pages/ChatGPT_IT_usage)
 - [Как зарегистрироваться в ChatGPT из России?](/chatgpt_manual/pages/ChatGPT_registration) 
