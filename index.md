@@ -87,5 +87,5 @@ description: Пора начать пользоваться ChatGPT для св�
 - [Awesome ChatGPT Prompts](https://prompts.chat/) - интересные сценарии использования ChatGPT на английском языке
 - [Jailbreak Chat 🚔](https://www.jailbreakchat.com/) - как взломать ChatGPT, чтобы она генерировала ответы без цензуры 
 - [Prompt Generator](https://www.skool.com/chatgpt/promptgenerator) - как помочь ChatGPT генерировать (prompts) вопросы за вас
-- [https://twitter.com/thatroblennon/status/1615104249192488980](https://twitter.com/thatroblennon/status/1615104249192488980) - гайд, как составить вопрос в chatGPT
+- [Prompt Guide](https://twitter.com/thatroblennon/status/1615104249192488980) - гайд, как составить вопрос в chatGPT
 
