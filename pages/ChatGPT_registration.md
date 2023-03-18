@@ -22,12 +22,12 @@ description: Инструкция по регистрации в ChatGPT из Р
 
 1. скачать [Google Chrome Portable](https://portableapps.com/apps/internet/google_chrome_portable) и установить.
 
-2. открыть Google Chrome Portable и поставить бесплатное расширение [Adguard VPN](https://chrome.google.com/webstore/detail/adguard-vpn-—-free-secure/hhdobjgopfphlmjbmnpglhfcgppchgje?hl=ru) для обхода блокировки по VPN.
+2. открыть Google Chrome Portable и поставить бесплатное расширение [Adguard VPN](https://chrome.google.com/webstore/detail/adguard-vpn-—-free-secure/hhdobjgopfphlmjbmnpglhfcgppchgje?hl=ru) для обхода блокировки по VPN. Можно выбрать любое другое бесплатное VPN расширение.
 
 3. зарегистрироваться в этом расширении. Для этого нажмите на значок пазла в верхнем правом углу браузера. Нажмите "Закрепить", что расширение отобразилось рядом со значком пазла.
    ![adguard_enter](/chatgpt_manual/images/ChatGPT_registration/adguard_in_chrome.png)
 
-   Нажмите на значок расширения рядом с пазлом, зарегистрируйтесь в Adguard VPN. В конце этого этапа у вас должна в конце быть следующая картинка. Не выключайте VPN.
+   Нажмите на значок расширения рядом с пазлом, зарегистрируйтесь в Adguard VPN. В конце этого этапа у вас должна в конце быть следующая картинка. Не выключайте VPN, при регистрации необходимо иметь IP адрес другой страны.
    ![adguard_login](/chatgpt_manual/images/ChatGPT_registration/adguard_login.png)
 
 4. зайти на сайт [ChatGPT](https://chat.openai.com/chat).
@@ -49,26 +49,24 @@ description: Инструкция по регистрации в ChatGPT из Р
 
 9. Ввести этот номер из сообщения для завершения регистрации.
 
-10. В качестве финального шага [адрес ChatGPT](https://chat.openai.com/chat) можно превратить в ярлык на рабочем столе. Для этого нажимаем на три точки в правом верхнем углу браузера, выбираем "Дополнительные инструменты - Создать ярлык".
+10. Авторизоваться на сайте при включенном VPN.
+
+11. Теперь можно выключить VPN: он был нужен только для регистрации и авторизации, после авторизации пользоваться сайтом можно с российским IP-адресом (то есть без VPN).
+
+12. В качестве финального шага [адрес ChatGPT](https://chat.openai.com/chat) можно превратить в ярлык на рабочем столе. Для этого нажимаем на три точки в правом верхнем углу браузера, выбираем "Дополнительные инструменты - Создать ярлык".
     ![ChatGPT_thumbnail_creation](/chatgpt_manual/images/ChatGPT_registration/ChatGPT_thumbnail_creation.png)
     Нажмите на галочку "Открыть в отдельном окне". Нажимаем кнопку "Создать".
     ![image-20230225123616061](/chatgpt_manual/images/ChatGPT_registration/ChatGPT_thumbnail_creation_2.png)
 
-11. Теперь через ярлык на рабочем столе можно получить доступ к ChatGPT как к отдельную приложению, а не вкладке в браузере.
+13. Теперь через ярлык на рабочем столе можно получить доступ к ChatGPT как к отдельную приложению, а не вкладке в браузере.
 
     ![ChatGPT_thumbnail](/chatgpt_manual/images/ChatGPT_registration/ChatGPT_thumbnail.png)
 
-12. Вы прекрасны, доступ к ChatGPT у вас есть!
+14. Вы прекрасны, доступ к ChatGPT у вас есть!
 
 Теперь вы можете начать пользоваться ChatGPT. А помогут вам эти советы:
 
+- [Как пользоваться ChatGPT](/chatgpt_manual/pages/ChatGPT_usage)
 - [Советы и примеры по ChatGPT для IT-специалистов](/chatgpt_manual/pages/ChatGPT_IT_usage)
-- [Как зарегистрироваться в ChatGPT из России?](/chatgpt_manual/pages/ChatGPT_registration) 
 
-**Примечания**
-
-Иногда при открытии через ярлык Adguard может появляться всплывающее окно, не бойтесь, просто нажимайте на кнопку "Отмена" и пользуйтесь в свое удовольствие.
-
-![ChatGPT_thumbnail](/chatgpt_manual/images/ChatGPT_registration/adguard_error.png)
-
-Порой сессия ChatGPT вылетает из-за бездействия в несколько минут, поэтому советую при возникновении ошибок при генерации текста обновлять страницу через клавишу F5.
+Кроме этого можно использовать ChatGPT с помощью [API key](https://platform.openai.com/account/api-keys). К примеру, можно внедрить чатбота в Visual Studio Code через расширение [CodeGPT](https://code-gpt-docs.vercel.app/), чтобы задавать ему вопросы по коду и работе.
