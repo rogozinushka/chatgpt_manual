@@ -64,7 +64,7 @@ description: Инструкция по регистрации в ChatGPT из Р
 
 14. Вы прекрасны, доступ к ChatGPT у вас есть!
 
-**Обновление 30.03.2023**
+**Обновление 30.03.2023 и 24.05.2023. Что делать, если доступ к ChatGPT запрещен**
 
 Я столкнулся с проблемой доступа к ChatGPT, который начал блокировать соединение через российский IP. Ни через домашний интернет, ни с мобильного телефона я не могу зайти на сайт и получаю ошибку.
 
@@ -75,6 +75,15 @@ description: Инструкция по регистрации в ChatGPT из Р
 > You do not have access to chat.openai.com.
 >
 > The site owner may have set restrictions that prevent you from accessing the site.
+
+Но в последнее время ошибка стала выглядеть так
+
+![ChatGPT_Sorry_you_have_been_blocked](/chatgpt_manual/images/ChatGPT_registration/ChatGPT_Sorry_you_have_been_blocked.png)
+
+> Sorry, you have been blocked
+> 
+> If you believe this was a mistake, please contact us through our help center
+
 
 Не пугайтесь, если столкнетесь с такой ошибкой. Если зайти на сайт через VPN - полет нормальный, запросы на генерацию текста принимаются и ChatGPT дает ответы. 
 
