@@ -91,5 +91,3 @@ description: Инструкция по регистрации в ChatGPT из Р
 - [Советы и примеры по ChatGPT для IT-специалистов](/chatgpt_manual/pages/ChatGPT_IT_usage)
 
 Кроме этого можно использовать ChatGPT с помощью [API key](https://platform.openai.com/account/api-keys). К примеру, можно внедрить чатбота в Visual Studio Code через расширение [CodeGPT](https://code-gpt-docs.vercel.app/), чтобы задавать ему вопросы по коду и работе.
-
-Попробуйте <a href="https://fast-ai.ru/">ChatGPT4: на русском языке. Доступ без VPN.</a>
