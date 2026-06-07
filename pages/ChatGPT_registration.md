@@ -4,8 +4,6 @@ description: Инструкция по регистрации в ChatGPT из Р
 ---
 # Как зарегистрироваться в ChatGPT из России?
 
-Попробуйте <a href="https://link.fast-ai.ru/HWSZFPqM">ChatGPT4: на русском языке. Доступ без VPN.</a>
-
 Если попробовать зарегистрироваться на [сайте](https://chat.openai.com/chat) с территории России, то в 100% случаев мы увидим такое окошко снизу. OpeanAI не позволяет зарегистрироваться с российским IP.
 
 ![OpenAI_API_not_available](/chatgpt_manual/images/ChatGPT_registration/OpenAI_API_not_available.png)
